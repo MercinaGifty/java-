@@ -1,0 +1,9 @@
+public class MultiLinePrint {
+    public static void main(String[]args){
+    System.out.println("Mercy is a good girl");
+    System.out.print("Mercy is a good girl");
+    System.out.print("mercinahhh");
+
+    }
+    
+}
